@@ -34,3 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsharma-007&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilsharma-007&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img width="780" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma-007&theme=radical" alt="nikhilsharma-007" />
+</p>
