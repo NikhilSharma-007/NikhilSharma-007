@@ -1,7 +1,7 @@
 <div>
 <h1 align="left">Hi 👋, I'm Nikhil Sharma</h1> 
 <h3 align="left">Full Stack Developer</h3>
-<h4 align="left">Skilled in writing/debugging applications interface code via HTML, CSS, Javascript/Typescript, NextJS, ReactJs with workflows such as REDUX & MVC architecture for MERN STACK Applications.</h4>
+<h3 align="left">Skilled in writing/debugging applications interface code via HTML, CSS, Javascript/Typescript, NextJS, ReactJs with workflows such as REDUX & MVC architecture for MERN STACK Applications.</h>
 </div>
 
 
