@@ -3,9 +3,9 @@
 
 ### 🚀 Full Stack Developer
 
-Passionate about building dynamic, responsive, and user-centric web applications.  
-Proficient in crafting and debugging interface code using **HTML5**, **CSS3 (Tailwind CSS)**, **JavaScript/TypeScript**, **React.js (Next.js)**, and **Node.js (Express)**.  
-Experienced with modern development workflows including **Redux**, **MVC architecture**, and full-stack development using the **MERN Stack**.
+- 🔹Passionate about building dynamic, responsive, and user-centric web applications.  
+- 🔹Proficient in crafting and debugging interface code using **HTML5**, **CSS3 (Tailwind CSS)**, **JavaScript/TypeScript**, **React.js (Next.js)**, and **Node.js (Express)**.  
+- 🔹Experienced with modern development workflows including **Redux**, **MVC architecture**, and full-stack development using the **MERN Stack**.
 
 
 ### 🌐 **Socials**
