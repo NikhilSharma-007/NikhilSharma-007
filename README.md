@@ -10,8 +10,9 @@
 
 ### 🌐 **Socials**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsharma.work21@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma--nikhil)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilsharma.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsharma.work21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma--nikhil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsharma-007)
 
 
@@ -41,7 +42,7 @@
 ### 🛢️ **Database**  
 <p>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 ### ⚙️ **Tools & Others**  
@@ -60,10 +61,13 @@
 
 ### 📊 **GitHub Stats**
 <p align="left">
-  <img width="35%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsharma-007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilsharma-007&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img width="45%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsharma-007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img width="37%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsharma-007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="left">
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma-007&theme=tokyonight">  
 </p>  
+
+---
+
